@@ -1,0 +1,85 @@
+.box :focus {
+    background-color: aquamarine;
+    color:burlywood
+
+}
+
+.mt-top {
+    margin-top: 100px;
+}
+
+.mt-mid {
+    margin-top: 300px;
+
+}
+
+.HeadT {
+    color: rgb(243, 239, 15);
+
+}
+
+.HeadB {
+    color: crimson;
+    text-shadow: 2px 2px 5px red;
+    background-color: black;
+}
+
+.Numb1 {
+    color: deepskyblue;
+    background-color: black;
+
+}
+
+.p1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.AnsT {
+    color: chocolate;
+
+}
+
+.box {
+    width: 20px;
+    height: 20px;
+    transition: 200ms;
+
+}
+
+.calculator-box {
+    width: 200px;
+    height: 200px;
+}
+
+.paint-Ans {
+    border-color: white;
+    border: 2px;
+    border-width: 50px;
+
+}
+
+.m1-1 {
+    margin-left: 500px;
+    margin-right: 500px;
+
+}
+
+.border {
+    border: 2px; 
+
+}
+
+.borderB {
+    border: 5px;
+
+}
+
+.body {
+    background-image: url(ea1767aa084dfba89c78ea74d2e7f2cb.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 350px;
+    background-color: black;
+    opacity: 0.2px;
+}
